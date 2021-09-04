@@ -22,3 +22,7 @@
 [西周“善夫吉父”带盖铜酃]( https://li932565422.github.io/test001/西周“善夫吉父”带盖铜酃/index.html)
 
 [西周“太师虘”带盖铜簋]( https://li932565422.github.io/test001/西周“太师虘”带盖铜簋/index.html)
+
+[010]( https://li932565422.github.io/test001/010/index.html)
+
+[011]( https://li932565422.github.io/test001/011/index.html)
