@@ -35,5 +35,9 @@
 
 [005]( https://li932565422.github.io/test001/005/index.html)
 
-[06]( https://li932565422.github.io/test001/06/index.html)
+[006]( https://li932565422.github.io/test001/06/index.html)
+
+[007]( https://li932565422.github.io/test001/007/index.html)
+
+[008]( https://li932565422.github.io/test001/008/index.html)
 
