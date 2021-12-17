@@ -5231,13 +5231,13 @@ marmoset = {};
 		this.container.appendChild(this.thumbnail);
 		this.playButton = document.createElement("input");
 		this.playButton.type = "image";
-		this.playButton.src = marmoset.dataLocale + "p.png";
+		this.playButton.src = marmoset.dataLocale + "play.png";
 		this.playButton.style.position = "absolute";
 		this.playButton.style.left = "50%";
 		this.playButton.style.top = "50%";
 		this.playButton.style["-webkit-transform"] = this.playButton.style.transform =
 			"translate(-50%,-50%) scale(0.5,0.5)";
-		this.playButton.style.opacity = 0.5;
+		this.playButton.style.opacity = 0;
 		this.playButton.style.outline = "0px";
 		this.playButton.onclick = function() {
 			this.viewer.loadScene(this.viewer.sceneURL);
