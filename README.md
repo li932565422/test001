@@ -68,10 +68,9 @@
 
 [S0021]( https://li932565422.github.io/test001/S0021/index.html)
 [z0355陶俑]( https://li932565422.github.io/test001/0z0355陶俑/index.html)
-[043]( https://li932565422.github.io/test001/043/index.html)
-[044]( https://li932565422.github.io/test001/044/index.html)
-[045]( https://li932565422.github.io/test001/045/index.html)
-[046]( https://li932565422.github.io/test001/046/index.html)
-[047]( https://li932565422.github.io/test001/047/index.html)
+[钱币1]( https://li932565422.github.io/test001/钱币1/index.html)
+[钱币2]( https://li932565422.github.io/test001/钱币2/index.html)
+[塔Z0197]( https://li932565422.github.io/test001/塔Z0197/index.html)
+[陶罐]( https://li932565422.github.io/test001/陶罐/index.html)
 
 
